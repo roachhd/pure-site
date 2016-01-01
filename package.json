@@ -3,7 +3,7 @@
   "description": "The Pure CSS website.",
   "homepage": "http://purecss.io/",
   "version": "1.18.13",
-  "private": true,
+  "private": true, 
   "repository": "git://github.com/yahoo/pure-site.git",
   "contributors": [
     "James Alley <manalagi001@yahoo.com> (http://www.manlagi.com/)",
