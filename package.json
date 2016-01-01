@@ -11,11 +11,11 @@
     "Tilo Mitra <tilomitra@gmail.com> (http://www.tilomitra.com/)"
   ],
   "directories": {
-    "lib": "./lib",
-    "middleware": "./middleware",
-    "public": "./public",
-    "routes": "./routes",
-    "views": "./views"
+    "lib": ".pure-site/lib",
+    "middleware": ".pure-site/middleware",
+    "public": ".pure-site/public",
+    "routes": ".pure-site/routes",
+    "views": ".pure-site/views"
   },
   "main": "server.js",
   "engines": {
